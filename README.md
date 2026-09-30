@@ -2,45 +2,27 @@
 
 **A comparative study of OpenAI Dots and Grok Bot**
 
-[![Read the paper](https://img.shields.io/badge/read-the%20paper-2088FF)](https://github.com/beamnxw/dots-vs-grok-bot/blob/main/paper/PAPER.md)
+[![PDF](https://img.shields.io/badge/paper-PDF-b31b1b)](https://github.com/beamnxw/dots-vs-grok-bot/blob/main/Grok_Bot_vs_OpenAI_Dots_arXiv_style.pdf)
+[![Read online](https://img.shields.io/badge/read-Markdown-2088FF)](https://github.com/beamnxw/dots-vs-grok-bot/blob/main/paper/PAPER.md)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Snapshot](https://img.shields.io/badge/snapshot-29%20Sep%202026-111111)](#)
 
-Working paper · not peer reviewed · snapshot date **29 September 2026** (the day OpenAI shipped Dots at DevDay).
+Working paper · not peer reviewed · snapshot date **29 September 2026**.
 
-## Send this link
+## Send these
 
-**https://github.com/beamnxw/dots-vs-grok-bot/blob/main/paper/PAPER.md**
+| What | URL |
+|---|---|
+| **PDF (main)** | https://github.com/beamnxw/dots-vs-grok-bot/blob/main/Grok_Bot_vs_OpenAI_Dots_arXiv_style.pdf |
+| Raw download | https://github.com/beamnxw/dots-vs-grok-bot/raw/main/Grok_Bot_vs_OpenAI_Dots_arXiv_style.pdf |
+| Markdown | https://github.com/beamnxw/dots-vs-grok-bot/blob/main/paper/PAPER.md |
+| Repo | https://github.com/beamnxw/dots-vs-grok-bot |
 
-That file is the paper. GitHub renders it. No download required.
+People with the PDF link get GitHub's built-in viewer. Use raw if you want a direct file.
 
-Repo home: https://github.com/beamnxw/dots-vs-grok-bot
+## Claim
 
-## One-paragraph claim
-
-Both products instantiate the same primitive — a frontier model, a durable cloud machine, a connector graph, and an approval gate. They disagree on the unit of work. **Dots** attaches a virtual machine to *one named agent* inside ChatGPT (GPT-6 Astra). **Grok Bot** attaches a virtual machine to *the user account* and already routes work across a roster of named teammates, including Team Bots (28 Sep 2026). Dots is the stronger single-agent / single-surface wager. Grok Bot is the more complete multi-agent operating system on this date.
-
-## What is in the repo
-
-```
-README.md
-LICENSE                 CC BY 4.0
-CITATION.cff
-Makefile
-paper/PAPER.md          the paper (open this)
-paper/README.md
-```
-
-The typeset PDF with TikZ figures is not stored in git (GitHub's file API here cannot take a binary blob). To attach it:
-
-1. Open https://github.com/beamnxw/dots-vs-grok-bot/upload/main/paper
-2. Drop `dots-vs-grok-bot.pdf` and optionally `dots_vs_grok_arxiv.tex`
-3. Commit
-
-After that, these two URLs will start working:
-
-- https://github.com/beamnxw/dots-vs-grok-bot/blob/main/paper/dots-vs-grok-bot.pdf
-- https://github.com/beamnxw/dots-vs-grok-bot/blob/main/paper/dots_vs_grok_arxiv.tex
+Both products instantiate the same primitive — a frontier model, a durable cloud machine, a connector graph, and an approval gate. They disagree on the unit of work. **Dots** attaches a VM to one named agent inside ChatGPT (GPT-6 Astra). **Grok Bot** attaches a VM to the user account and already routes work across a roster, including Team Bots (28 Sep 2026). Dots is the stronger single-agent / single-surface wager. Grok Bot is the more complete multi-agent OS on this date.
 
 ## Cite
 
