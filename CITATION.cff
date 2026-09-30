@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Always-On Personal Agents as Competing Operating Primitives: A Comparative Study of OpenAI Dots and Grok Bot"
+message: "If you use this working paper, please cite it as below."
+type: article
+authors:
+  - name: "beamnxw"
+    website: "https://github.com/beamnxw"
+    alias: "@beamnxw"
+date-released: "2026-09-29"
+url: "https://github.com/beamnxw/dots-vs-grok-bot"
+repository-code: "https://github.com/beamnxw/dots-vs-grok-bot"
+license: CC-BY-4.0
+keywords:
+  - persistent agents
+  - OpenAI Dots
+  - Grok Bot
+  - multi-agent systems
+  - cloud computers
